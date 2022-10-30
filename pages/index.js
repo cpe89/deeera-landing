@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Deeera!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to Deeera website!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Stay tuned, We are coming soon.
         </p>
       </main>
 
